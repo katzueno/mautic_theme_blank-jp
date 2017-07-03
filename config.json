@@ -1,0 +1,10 @@
+{
+  "name": "JP Blank",
+  "author": "concrete5 Japan",
+  "authorUrl": "https://concrete5.co.jp",
+  "features": [
+    "page",
+    "email",
+    "form"
+  ]
+}
