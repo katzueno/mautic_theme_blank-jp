@@ -7,6 +7,8 @@ Mautic を使って日本語のシンプルなメール・ランディングペ�
 - GitHub のレポジトリから [ダウンロード](https://github.com/katzueno/mautic_theme_blank-jp/archive/master.zip)
     - https://github.com/katzueno/mautic_theme_blank-jp/archive/master.zip
 - ZIP ファイルを解凍
+- 「mautic_theme_blank-jp-master」フォルダを **含めず** 仮想ファイルのみで ZIP ファイルを作成
+- blank-jp.zip という名前に変更 
 - Mautic 管理画面に管理権限の有るユーザーとしてログイン
 - 右上の歯車ボタンをクリックし、右ペインメニューを出す
 - メニューから「テーマ」を選択
