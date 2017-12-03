@@ -4,6 +4,11 @@ Mautic を使って日本語のシンプルなメール・ランディングペ�
 
 ## インストール方法
 
+スクリーンショット付きの解説を、[弊社ブログ記事](https://concrete5.co.jp/blog/mautic-blank-jp-mautic)にて掲載しています。
+
+https://concrete5.co.jp/blog/mautic-blank-jp-mautic
+
+
 - GitHub のレポジトリから [ダウンロード](https://github.com/katzueno/mautic_theme_blank-jp/archive/master.zip)
     - https://github.com/katzueno/mautic_theme_blank-jp/archive/master.zip
 - ZIP ファイルを解凍
